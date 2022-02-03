@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/AllysonMcGrath/portfolio-generator#readme",
   "dependencies": {
-    "inquirer": "^8.1.5"
+    "inquirer": "^8.2.0"
   }
 }
