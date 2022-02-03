@@ -20,7 +20,7 @@ As this app is run by using Node, it cannot be deployed. To use this app, clone 
 
 When generated correctly, the HTML page should look like this:
 
-![Site with user's name as title, with about me and seperate boxes with info about each project](./portgensite.JPG)
+![Site with user's name as title, with about me and seperate boxes with info about each project](./portgensite.jpg)
 
 
 Use standard git commands within this repository.
